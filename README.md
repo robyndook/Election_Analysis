@@ -17,6 +17,7 @@ The analysis of the election show that:
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
 - Diana Degette won by 73.8% with 272,892 total votes
+![Election Results]https://github.com/robyndook/Election_Analysis/blob/5f5643b916f9aa37cbac9dc3bfd85ae6c9209442/Analysis/election_analysis.txt
 ###### Summary
 
 
