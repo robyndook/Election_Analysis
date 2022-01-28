@@ -19,6 +19,9 @@ The analysis of the election show that:
 - Diana Degette won by 73.8% with 272,892 total votes
 - ![Election Results](https://github.com/robyndook/Election_Analysis/blob/7f13df1b595a89274ed53b3789a4f7716698b937/Analysis/election_analysis.png)
 ###### Summary
+This script can be modified with the use of more data sets. With additional data set's we can building a broader picture of the election results or a more narrow picture
+- Expanding upon location by neighborhood could pinpoint areas that need additional campaining for future elections
+- Including voters personal information with age, race, or gender would provide insight on the needs of the populace
 
 
 
